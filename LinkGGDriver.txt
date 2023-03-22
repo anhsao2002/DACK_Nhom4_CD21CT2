@@ -1,3 +1,10 @@
 Link ggDriver API test: (Ánh Sao)
 https://drive.google.com/file/d/1WSJwRJFBYX-fuHG_Eu4EEDWu2f-X48DV/view?usp=share_link
 
+Link ggDriver Selenium testcase 5-6: (Hoàng)
+https://drive.google.com/drive/folders/1qCf9cdE-Xljo6T2z1dNxy139vWc-a2Ql
+Link ggDriver Selenium testcase 3-4: (Ngọc)
+https://drive.google.com/drive/folders/1mkC23sTmyj68f-sibqLmVb-wixe1ayqX
+Link ggDriver Selenium testcase 1-2: (Ánh Sao)
+https://drive.google.com/file/d/17BCOlZcRhkcj5rx7Lb2wV3rO50pM6tH8/view?usp=sharing
+
